@@ -33,5 +33,6 @@ Voici les thèmes proposés :
 - React*
 
 ## Mockup (Prototype)
-![rsz_schema2](https://user-images.githubusercontent.com/66479308/95776767-40315e80-0cc5-11eb-8e23-e122ae62b603.jpg)
-![rsz_schema1](https://user-images.githubusercontent.com/66479308/95776778-46bfd600-0cc5-11eb-88cf-b367dad021da.jpg)
+![rsz_rsz_schema2](https://user-images.githubusercontent.com/66479308/95776964-956d7000-0cc5-11eb-9175-085d365c8572.jpg)
+![rsz_rsz_schema1](https://user-images.githubusercontent.com/66479308/95776973-99998d80-0cc5-11eb-895f-b5d6ba161b1c.jpg)
+
